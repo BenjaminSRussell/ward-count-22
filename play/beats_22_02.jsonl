@@ -485,3 +485,6 @@
 {"n":485,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Switchyard. Nobody past the east slip. We hold in 8 steps. Direct on the left lane, open."}
 {"n":486,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard east slip. Matt keeps the lamp for the hold. 2 steps, direct on the left lane, open."}
 {"n":487,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east slip. direct left open. 3 steps. The lamp stays for the hold."}
+{"n":488,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Switchyard. Nobody past the east slip. We hold in 4 steps. Direct on the left lane, open."}
+{"n":489,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard east slip. Nia keeps the lamp for the hold. 5 steps, direct on the left lane, open."}
+{"n":490,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. direct left open. 6 steps. The lamp stays for the hold."}
