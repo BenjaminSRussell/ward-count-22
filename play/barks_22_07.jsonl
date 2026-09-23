@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south slip. Ivo keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
 {"n":521,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south slip. direct left open. 4 steps. The badge door stays for the hold."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Clinic roof. Nobody past the south slip. We hold in 5 steps. Direct on the left lane, open."}
+{"n":523,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south slip. Bess keeps the badge door for the hold. 6 steps, direct on the left lane, open."}
+{"n":524,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south slip. direct left open. 7 steps. The badge door stays for the hold."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Switchyard. Nobody past the south slip. We hold in 8 steps. Direct on the left lane, open."}
