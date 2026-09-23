@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at the Lot. Nobody past the north slip. We hold in 4 steps. Direct on the left lane, open."}
 {"n":64,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north slip. Ivo keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
 {"n":65,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. direct left open. 6 steps. The barrel stays for the hold."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at the Lot. Nobody past the north slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":67,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north slip. Bess keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
+{"n":68,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. direct left open. 2 steps. The barrel stays for the hold."}
