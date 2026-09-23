@@ -92,3 +92,6 @@
 {"n":92,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the barrel for the hold. 2 steps, direct on the left lane, open."}
 {"n":93,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. direct left open. 3 steps. The barrel stays for the hold."}
 {"n":94,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Last Light. Nobody past the west slip. We hold in 4 steps. Direct on the left lane, open."}
+{"n":95,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light west slip. Bess keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
+{"n":96,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. direct left open. 6 steps. The barrel stays for the hold."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at South stair. Nobody past the west slip. We hold in 7 steps. Direct on the left lane, open."}
