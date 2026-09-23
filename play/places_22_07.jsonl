@@ -581,3 +581,6 @@
 {"n":581,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south slip. direct left open. 8 steps. The radio coil stays for the hold."}
 {"n":582,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the south slip. We hold in 2 steps. Direct on the left lane, open."}
 {"n":583,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south slip. Bess keeps the radio coil for the hold. 3 steps, direct on the left lane, open."}
+{"n":584,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south slip. direct left open. 4 steps. The radio coil stays for the hold."}
+{"n":585,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the Lot. Nobody past the south slip. We hold in 5 steps. Direct on the left lane, open."}
+{"n":586,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south slip. Matt keeps the radio coil for the hold. 6 steps, direct on the left lane, open."}
