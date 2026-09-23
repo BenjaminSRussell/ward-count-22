@@ -168,3 +168,6 @@
 {"n":168,"kind":"place","name":"South stair west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair west yard. Ivo keeps the barrel for the hold. 7 steps, direct on the left lane, open."}
 {"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west yard. direct left open. 8 steps. The barrel stays for the hold."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at South stair. Nobody past the west yard. We hold in 2 steps. Direct on the left lane, open."}
+{"n":171,"kind":"place","name":"South stair west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair west yard. Bess keeps the barrel for the hold. 3 steps, direct on the left lane, open."}
+{"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west yard. direct left open. 4 steps. The barrel stays for the hold."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at the pier. Nobody past the west yard. We hold in 5 steps. Direct on the left lane, open."}
