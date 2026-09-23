@@ -34,3 +34,6 @@
 {"n":34,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at the Lot. Nobody past the west slip. We hold in 7 steps. Direct on the left lane, open."}
 {"n":35,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west slip. Bess keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
 {"n":36,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west slip. direct left open. 2 steps. The barrel stays for the hold."}
+{"n":37,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the west slip. We hold in 3 steps. Direct on the left lane, open."}
+{"n":38,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence west slip. Matt keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
+{"n":39,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west slip. direct left open. 5 steps. The barrel stays for the hold."}
