@@ -985,3 +985,6 @@
 {"n":985,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east slip. Nia keeps the hydrant for the hold. 5 steps, direct on the left lane, open."}
 {"n":986,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. direct left open. 6 steps. The hydrant stays for the hold."}
 {"n":987,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Switchyard. Nobody past the east slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":988,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":989,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. direct left open. 2 steps. The hydrant stays for the hold."}
+{"n":990,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Switchyard. Nobody past the east slip. We hold in 3 steps. Direct on the left lane, open."}
