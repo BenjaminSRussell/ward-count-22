@@ -225,3 +225,6 @@
 {"n":225,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east slip. direct left open. 6 steps. The drum stays for the hold."}
 {"n":226,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the Lot. Nobody past the east slip. We hold in 7 steps. Direct on the left lane, open."}
 {"n":227,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east slip. Bess keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":228,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east slip. direct left open. 2 steps. The drum stays for the hold."}
+{"n":229,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Stockyard fence. Nobody past the east slip. We hold in 3 steps. Direct on the left lane, open."}
+{"n":230,"kind":"place","name":"Stockyard fence east slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east slip. Matt keeps the drum for the hold. 4 steps, direct on the left lane, open."}
