@@ -703,3 +703,6 @@
 {"n":703,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west yard. direct left open. 3 steps. The rebar stays for the hold."}
 {"n":704,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Switchyard. Nobody past the west yard. We hold in 4 steps. Direct on the left lane, open."}
 {"n":705,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west yard. Nia keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
+{"n":706,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west yard. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":707,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Switchyard. Nobody past the west yard. We hold in 7 steps. Direct on the left lane, open."}
+{"n":708,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
