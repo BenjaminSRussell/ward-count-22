@@ -718,3 +718,6 @@
 {"n":718,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Switchyard. Nobody past the west yard. We hold in 3 steps. Direct on the left lane, open."}
 {"n":719,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west yard. Bess keeps the radio coil for the hold. 4 steps, direct on the left lane, open."}
 {"n":720,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The radio coil stays for the hold."}
+{"n":721,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Drydock. Nobody past the west yard. We hold in 6 steps. Direct on the left lane, open."}
+{"n":722,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west yard. Matt keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
+{"n":723,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west yard. direct left open. 8 steps. The radio coil stays for the hold."}
