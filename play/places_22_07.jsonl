@@ -389,3 +389,6 @@
 {"n":389,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. direct left open. 5 steps. The drum stays for the hold."}
 {"n":390,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at High line. Nobody past the south slip. We hold in 6 steps. Direct on the left lane, open."}
 {"n":391,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south slip. Bess keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":392,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south slip. direct left open. 8 steps. The drum stays for the hold."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Ward gate. Nobody past the south slip. We hold in 2 steps. Direct on the left lane, open."}
+{"n":394,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south slip. Matt keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
