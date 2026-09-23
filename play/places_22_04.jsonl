@@ -305,3 +305,6 @@
 {"n":305,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. direct left open. 8 steps. The crate stays for the hold."}
 {"n":306,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at South stair. Nobody past the north slip. We hold in 2 steps. Direct on the left lane, open."}
 {"n":307,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair north slip. Bess keeps the crate for the hold. 3 steps, direct on the left lane, open."}
+{"n":308,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. direct left open. 4 steps. The crate stays for the hold."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at the pier. Nobody past the north slip. We hold in 5 steps. Direct on the left lane, open."}
+{"n":310,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier north slip. Matt keeps the crate for the hold. 6 steps, direct on the left lane, open."}
