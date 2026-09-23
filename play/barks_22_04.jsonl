@@ -70,3 +70,6 @@
 {"n":70,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
 {"n":71,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. direct left open. 5 steps. The barrel stays for the hold."}
 {"n":72,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north slip. We hold in 6 steps. Direct on the left lane, open."}
+{"n":73,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the barrel for the hold. 7 steps, direct on the left lane, open."}
+{"n":74,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. direct left open. 8 steps. The barrel stays for the hold."}
+{"n":75,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Stockyard fence. Nobody past the north slip. We hold in 2 steps. Direct on the left lane, open."}
