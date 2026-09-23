@@ -573,3 +573,6 @@
 {"n":573,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the north slip. We hold in 3 steps. Direct on the left lane, open."}
 {"n":574,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the rebar for the hold. 4 steps, direct on the left lane, open."}
 {"n":575,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. direct left open. 5 steps. The rebar stays for the hold."}
+{"n":576,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the north slip. We hold in 6 steps. Direct on the left lane, open."}
+{"n":577,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the rebar for the hold. 7 steps, direct on the left lane, open."}
+{"n":578,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. direct left open. 8 steps. The rebar stays for the hold."}
