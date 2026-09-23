@@ -943,3 +943,6 @@
 {"n":943,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Mast yard. Nobody past the north slip. We hold in 3 steps. Direct on the left lane, open."}
 {"n":944,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard north slip. Ivo keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
 {"n":945,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north slip. direct left open. 5 steps. The hydrant stays for the hold."}
+{"n":946,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Mast yard. Nobody past the north slip. We hold in 6 steps. Direct on the left lane, open."}
+{"n":947,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north slip. Bess keeps the hydrant for the hold. 7 steps, direct on the left lane, open."}
+{"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north slip. direct left open. 8 steps. The hydrant stays for the hold."}
