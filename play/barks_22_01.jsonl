@@ -145,3 +145,6 @@
 {"n":145,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west slip. Nia keeps the awning for the hold. 5 steps, direct on the left lane, open."}
 {"n":146,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west slip. direct left open. 6 steps. The awning stays for the hold."}
 {"n":147,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Switchyard. Nobody past the west slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":148,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west slip. Ivo keeps the awning for the hold. 8 steps, direct on the left lane, open."}
+{"n":149,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. direct left open. 2 steps. The awning stays for the hold."}
+{"n":150,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Switchyard. Nobody past the west slip. We hold in 3 steps. Direct on the left lane, open."}
