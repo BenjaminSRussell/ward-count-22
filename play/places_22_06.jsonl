@@ -336,3 +336,6 @@
 {"n":336,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south slip. direct left open. 2 steps. The crate stays for the hold."}
 {"n":337,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Clinic roof. Nobody past the south slip. We hold in 3 steps. Direct on the left lane, open."}
 {"n":338,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south slip. Matt keeps the crate for the hold. 4 steps, direct on the left lane, open."}
+{"n":339,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south slip. direct left open. 5 steps. The crate stays for the hold."}
+{"n":340,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Clinic roof. Nobody past the south slip. We hold in 6 steps. Direct on the left lane, open."}
+{"n":341,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof south slip. Nia keeps the crate for the hold. 7 steps, direct on the left lane, open."}
