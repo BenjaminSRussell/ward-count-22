@@ -929,3 +929,6 @@
 {"n":929,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. direct left open. 6 steps. The hydrant stays for the hold."}
 {"n":930,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the Lot. Nobody past the west yard. We hold in 7 steps. Direct on the left lane, open."}
 {"n":931,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west yard. Bess keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":932,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west yard. direct left open. 2 steps. The hydrant stays for the hold."}
+{"n":933,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the west yard. We hold in 3 steps. Direct on the left lane, open."}
+{"n":934,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence west yard. Matt keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
