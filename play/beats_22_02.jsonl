@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Switchyard. Nobody past the east slip. We hold in 7 steps. Direct on the left lane, open."}
 {"n":828,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the rope for the hold. 8 steps, direct on the left lane, open."}
 {"n":829,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. direct left open. 2 steps. The rope stays for the hold."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Switchyard. Nobody past the east slip. We hold in 3 steps. Direct on the left lane, open."}
+{"n":831,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east slip. Bess keeps the rope for the hold. 4 steps, direct on the left lane, open."}
+{"n":832,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east slip. direct left open. 5 steps. The rope stays for the hold."}
