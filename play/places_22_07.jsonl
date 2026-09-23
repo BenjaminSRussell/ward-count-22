@@ -617,3 +617,6 @@
 {"n":617,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south slip. direct left open. 2 steps. The radio coil stays for the hold."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Mall court. Nobody past the south slip. We hold in 3 steps. Direct on the left lane, open."}
 {"n":619,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court south slip. Bess keeps the radio coil for the hold. 4 steps, direct on the left lane, open."}
+{"n":620,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south slip. direct left open. 5 steps. The radio coil stays for the hold."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the Underpass. Nobody past the south slip. We hold in 6 steps. Direct on the left lane, open."}
+{"n":622,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south slip. Matt keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
