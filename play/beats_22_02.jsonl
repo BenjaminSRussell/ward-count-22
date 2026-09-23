@@ -551,3 +551,6 @@
 {"n":551,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the Lot. Nobody past the east slip. We hold in 4 steps. Direct on the left lane, open."}
 {"n":552,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east slip. Ivo keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
 {"n":553,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east slip. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Lot. Nobody past the east slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":555,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east slip. Bess keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
+{"n":556,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east slip. direct left open. 2 steps. The rebar stays for the hold."}
