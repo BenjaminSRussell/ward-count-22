@@ -346,3 +346,6 @@
 {"n":346,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north slip. direct left open. 6 steps. The drum stays for the hold."}
 {"n":347,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Switchyard. Nobody past the north slip. We hold in 7 steps. Direct on the left lane, open."}
 {"n":348,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north slip. Ivo keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north slip. direct left open. 2 steps. The drum stays for the hold."}
+{"n":350,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Switchyard. Nobody past the north slip. We hold in 3 steps. Direct on the left lane, open."}
+{"n":351,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north slip. Bess keeps the drum for the hold. 4 steps, direct on the left lane, open."}
