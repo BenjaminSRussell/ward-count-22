@@ -207,3 +207,6 @@
 {"n":207,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Ward gate. Nobody past the north slip. We hold in 8 steps. Direct on the left lane, open."}
 {"n":208,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate north slip. Ivo keeps the crate for the hold. 2 steps, direct on the left lane, open."}
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north slip. direct left open. 3 steps. The crate stays for the hold."}
+{"n":210,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Ward gate. Nobody past the north slip. We hold in 4 steps. Direct on the left lane, open."}
+{"n":211,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north slip. Bess keeps the crate for the hold. 5 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. direct left open. 6 steps. The crate stays for the hold."}
