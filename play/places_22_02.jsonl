@@ -334,3 +334,6 @@
 {"n":334,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east slip. direct left open. 4 steps. The crate stays for the hold."}
 {"n":335,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Drydock. Nobody past the east slip. We hold in 5 steps. Direct on the left lane, open."}
 {"n":336,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east slip. Ivo keeps the crate for the hold. 6 steps, direct on the left lane, open."}
+{"n":337,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east slip. direct left open. 7 steps. The crate stays for the hold."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Drydock. Nobody past the east slip. We hold in 8 steps. Direct on the left lane, open."}
+{"n":339,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east slip. Bess keeps the crate for the hold. 2 steps, direct on the left lane, open."}
