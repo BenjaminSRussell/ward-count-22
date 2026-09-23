@@ -310,3 +310,6 @@
 {"n":310,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north slip. direct left open. 5 steps. The drum stays for the hold."}
 {"n":311,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at South stair. Nobody past the north slip. We hold in 6 steps. Direct on the left lane, open."}
 {"n":312,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north slip. Ivo keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":313,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. direct left open. 8 steps. The drum stays for the hold."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at South stair. Nobody past the north slip. We hold in 2 steps. Direct on the left lane, open."}
+{"n":315,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north slip. Bess keeps the drum for the hold. 3 steps, direct on the left lane, open."}
