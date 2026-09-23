@@ -480,3 +480,6 @@
 {"n":480,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north slip. Ivo keeps the badge door for the hold. 7 steps, direct on the left lane, open."}
 {"n":481,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. direct left open. 8 steps. The badge door stays for the hold."}
 {"n":482,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at South stair. Nobody past the north slip. We hold in 2 steps. Direct on the left lane, open."}
+{"n":483,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north slip. Bess keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
+{"n":484,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. direct left open. 4 steps. The badge door stays for the hold."}
+{"n":485,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the pier. Nobody past the north slip. We hold in 5 steps. Direct on the left lane, open."}
