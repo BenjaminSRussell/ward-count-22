@@ -911,3 +911,6 @@
 {"n":911,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the Lot. Nobody past the south slip. We hold in 4 steps. Direct on the left lane, open."}
 {"n":912,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south slip. Ivo keeps the hydrant for the hold. 5 steps, direct on the left lane, open."}
 {"n":913,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south slip. direct left open. 6 steps. The hydrant stays for the hold."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the Lot. Nobody past the south slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":915,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south slip. Bess keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":916,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south slip. direct left open. 2 steps. The hydrant stays for the hold."}
