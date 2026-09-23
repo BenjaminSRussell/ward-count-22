@@ -945,3 +945,6 @@
 {"n":945,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west slip. direct left open. 8 steps. The shutter stays for the hold."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at South stair. Nobody past the west slip. We hold in 2 steps. Direct on the left lane, open."}
 {"n":947,"kind":"place","name":"South stair west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair west slip. Bess keeps the shutter for the hold. 3 steps, direct on the left lane, open."}
+{"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west slip. direct left open. 4 steps. The shutter stays for the hold."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at the pier. Nobody past the west slip. We hold in 5 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier west slip. Matt keeps the shutter for the hold. 6 steps, direct on the left lane, open."}
