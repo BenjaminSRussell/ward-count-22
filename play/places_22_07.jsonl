@@ -242,3 +242,6 @@
 {"n":242,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south slip. direct left open. 5 steps. The drum stays for the hold."}
 {"n":243,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Kessler alley. Nobody past the south slip. We hold in 6 steps. Direct on the left lane, open."}
 {"n":244,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south slip. Ivo keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":245,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south slip. direct left open. 8 steps. The drum stays for the hold."}
+{"n":246,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Kessler alley. Nobody past the south slip. We hold in 2 steps. Direct on the left lane, open."}
+{"n":247,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south slip. Bess keeps the drum for the hold. 3 steps, direct on the left lane, open."}
